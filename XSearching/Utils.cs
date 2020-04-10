@@ -19,8 +19,8 @@ namespace XSearching
     /// </summary>
     public enum SocialLevels
     {
-        Underclass,//底层
-        Middleclass,//中产阶级
-        Eliteclass//精英阶级
+        Underclass,//低级
+        Middleclass,//中级
+        Eliteclass//高级
     }
 }

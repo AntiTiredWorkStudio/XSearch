@@ -14,7 +14,13 @@ namespace XSearching
         /// <summary>
         /// 社会地位
         /// </summary>
-        public int SocialLevels;
+        public SocialLevels socialLevels;
 
+        /// <summary>
+        /// 警戒程度
+        /// 
+        /// 
+        /// </summary>
+        public float GuardLevel;
     }
 }
