@@ -32,8 +32,15 @@ namespace XSearching
         /// </summary>
         public Character target;
         /// <summary>
-        /// 了解程度
+        /// 了解程度(0-1)
         /// </summary>
         public float knowledge;
+
+        /// <summary>
+        /// 关系发展
+        /// </summary>
+        public void RelationDevelop(Character self) { 
+            
+        }
     }
 }
